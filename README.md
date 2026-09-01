@@ -1,16 +1,13 @@
-## Hi there 👋
+## Eduardo Jr. Coelho
 
-<!--
-**DZ092/DZ092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recepcionista hospitalar, estudando Análise e Desenvolvimento de Sistemas (UniCesumar) e construindo projetos de portfólio em Python e Flask por conta própria.
 
-Here are some ideas to get you started:
+Meu principal projeto é o **Help Desk System**, um sistema completo de gerenciamento de chamados técnicos: controle de acesso por perfil, API REST própria, upload de anexos, exportação de relatórios, registro de auditoria e uma suíte com mais de 120 testes automatizados, com integração contínua a cada push. Está no ar, com banco PostgreSQL e deploy em produção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Repositório: [github.com/DZ092/helpdesk-system](https://github.com/DZ092/helpdesk-system)
+- Demonstração: [dz092.github.io/helpdesk-system](https://dz092.github.io/helpdesk-system)
+- Aplicação: [helpdesk-system-cci1.onrender.com](https://helpdesk-system-cci1.onrender.com)
+
+**Tecnologias:** Python, Flask, Flask-SQLAlchemy, Flask-WTF, PostgreSQL, SQLite, Pytest, GitHub Actions.
+
+Contato: [LinkedIn](https://www.linkedin.com/in/eduardocoelho-dev)
