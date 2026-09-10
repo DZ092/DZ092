@@ -28,7 +28,7 @@ Construindo projetos de portfólio em Python e Flask
 
 Suíte com **141 testes automatizados**, rodando via GitHub Actions a cada push, com deploy contínuo no Render e banco PostgreSQL.
 
-<br clear="left"/>
+<br align="center"/>
 
 ---
 
