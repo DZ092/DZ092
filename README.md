@@ -24,10 +24,6 @@ Construindo projetos de portfólio em Python e Flask
 
 ### 🚀 Projeto em destaque
 
-<a href="https://github.com/DZ092/helpdesk-system">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DZ092&repo=helpdesk-system&theme=default&hide_border=true" width="49%" />
-</a>
-
 **Help Desk System** — sistema de gerenciamento de chamados técnicos construído do zero em Flask, com controle de acesso por perfil (Usuário, Técnico, Administrador), ciclo completo de chamado, notificação por e-mail, painel administrativo, auditoria e segurança (CSRF, hash de senha, recuperação por link assinado).
 
 Suíte com **141 testes automatizados**, rodando via GitHub Actions a cada push, com deploy contínuo no Render e banco PostgreSQL.
