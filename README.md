@@ -1,43 +1,59 @@
-```
-                                  ............  DZ92@github
-                                  ............  ────────────────────────────
-                     ::=++***+=:.  ...........  OS.......... Windows 11
-                  :=#%%####%%%%%%*: ..........  Host........ UniCesumar — ADS
-                .+%%#+--==+**##%%%%=..........  Kernel...... Python 3.x
-               -%%#=:......::-+*#%%%*.........  Shell....... Flask 3.x
-              -%##=:...... ....:=+*##+........  Uptime...... ~6 meses (desde mar/2026)
-             .##*+:.....       ...:-=*+ ......  ────────────────────────────
-             +*+=-:....        .....:-+:......  Languages.Programming... Python, JavaScript, SQL
-            -*+==:...            ...::-=......  Languages.Frameworks.... Flask, SQLAlchemy, Flask-WTF
-            ++=-::...           ....:--+......  Languages.Tools......... Git, GitHub Actions, Pytest
-           -++:.:::..          ....::--*......  ────────────────────────────
-        :=:=+-::-=+++-.         ....:--*......  Featured Project... helpdesk-system
-        ----+:::---=+##+-.       ..::-=+......                     141 tests · CI/CD · PostgreSQL
-        ::-=::.:-===-=*##*:.  .....::-+- .....  ────────────────────────────
-        .:-=::..:=**#*+++=:. :-=++===-=.......  Contact
-        :.:-::...:--====::. .=*##%%%%#-  .....    LinkedIn.. /in/eduardocoelho-dev
-        ..::::......::::::  :*###***##.   ....    GitHub.... github.com/DZ092
-        ..::::...     .... .-==+#*##*=    ....
-        .:::::...     .... .-=-=+***+:   .....
-          :::....    ::..  .:=---==-=  .......
-       .--:::.......:--:.  .:=-:::-=:  . .....
-      -%%#:::........+**-::-+=----==. ........
-    .+%%%#-:::::.:---+*****#*----=+: . .......
-   :*%%%%+=-::::=*****##%%%%*---=+=...........
-  :%%%%%#-=---:=*#*++====+#%*+-=++............
-+*#%%%%#=-+=---==-:---=+****##=++.............
-%%%%%%%==-=*=----::-====-=+*%#+**.............
-%%%%%%%*=-=**=-:::::+###*+++**#%%.............
-%%%%%%%%*--*#*=-:....-====++*#%@%.............
-```
+<div align="center">
 
-## 🛠️ Stack
+# Olá, eu sou o Eduardo 👋
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Pytest](https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=0A9EDC) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)
+**Estudante de Análise e Desenvolvimento de Sistemas (UniCesumar)**
+Construindo projetos de portfólio em Python e Flask
 
-## 🚀 Projeto em destaque
+</div>
 
-[![Help Desk System](https://github-readme-stats.vercel.app/api/pin/?username=DZ092&repo=helpdesk-system&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/DZ092/helpdesk-system)
+---
+
+### 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### 🚀 Projeto em destaque
+
+<a href="https://github.com/DZ092/helpdesk-system">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DZ092&repo=helpdesk-system&theme=default&hide_border=true" width="49%" />
+</a>
+
+**Help Desk System** — sistema de gerenciamento de chamados técnicos construído do zero em Flask, com controle de acesso por perfil (Usuário, Técnico, Administrador), ciclo completo de chamado, notificação por e-mail, painel administrativo, auditoria e segurança (CSRF, hash de senha, recuperação por link assinado).
+
+Suíte com **141 testes automatizados**, rodando via GitHub Actions a cada push, com deploy contínuo no Render e banco PostgreSQL.
+
+<br clear="left"/>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZ092&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ092&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/eduardocoelho-dev) · [GitHub](https://github.com/DZ092) · eduardocoelhopro@gmail.com
+
+</div>
+
+---
 
 ## 📊 Estatísticas
 
