@@ -34,8 +34,6 @@ Suíte com **141 testes automatizados**, rodando via GitHub Actions a cada push,
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZ092&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ092&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DZ092&theme=dark&hide_border=true&background=0D1117)
 
 ---
