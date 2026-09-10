@@ -36,27 +36,14 @@ Suíte com **141 testes automatizados**, rodando via GitHub Actions a cada push,
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZ092&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ092&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZ092&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ092&layout=compact&theme=default&hide_border=true)
-
-</div>
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DZ092&theme=dark&hide_border=true&background=0D1117)
 
 ---
 
 <div align="center">
 
 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/eduardocoelho-dev) · [GitHub](https://github.com/DZ092) · eduardocoelhopro@gmail.com
-
-</div>
-
----
-
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZ092&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ092&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DZ092&theme=dark&hide_border=true&background=0D1117)
