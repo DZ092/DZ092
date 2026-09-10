@@ -1,13 +1,46 @@
-## Eduardo Jr. Coelho
+```
+                                  ............  DZ92@github
+                                  ............  ────────────────────────────
+                     ::=++***+=:.  ...........  OS.......... Windows 11
+                  :=#%%####%%%%%%*: ..........  Host........ UniCesumar — ADS
+                .+%%#+--==+**##%%%%=..........  Kernel...... Python 3.x
+               -%%#=:......::-+*#%%%*.........  Shell....... Flask 3.x
+              -%##=:...... ....:=+*##+........  Uptime...... ~6 meses (desde mar/2026)
+             .##*+:.....       ...:-=*+ ......  ────────────────────────────
+             +*+=-:....        .....:-+:......  Languages.Programming... Python, JavaScript, SQL
+            -*+==:...            ...::-=......  Languages.Frameworks.... Flask, SQLAlchemy, Flask-WTF
+            ++=-::...           ....:--+......  Languages.Tools......... Git, GitHub Actions, Pytest
+           -++:.:::..          ....::--*......  ────────────────────────────
+        :=:=+-::-=+++-.         ....:--*......  Featured Project... helpdesk-system
+        ----+:::---=+##+-.       ..::-=+......                     141 tests · CI/CD · PostgreSQL
+        ::-=::.:-===-=*##*:.  .....::-+- .....  ────────────────────────────
+        .:-=::..:=**#*+++=:. :-=++===-=.......  Contact
+        :.:-::...:--====::. .=*##%%%%#-  .....    LinkedIn.. /in/eduardocoelho-dev
+        ..::::......::::::  :*###***##.   ....    GitHub.... github.com/DZ092
+        ..::::...     .... .-==+#*##*=    ....
+        .:::::...     .... .-=-=+***+:   .....
+          :::....    ::..  .:=---==-=  .......
+       .--:::.......:--:.  .:=-:::-=:  . .....
+      -%%#:::........+**-::-+=----==. ........
+    .+%%%#-:::::.:---+*****#*----=+: . .......
+   :*%%%%+=-::::=*****##%%%%*---=+=...........
+  :%%%%%#-=---:=*#*++====+#%*+-=++............
++*#%%%%#=-+=---==-:---=+****##=++.............
+%%%%%%%==-=*=----::-====-=+*%#+**.............
+%%%%%%%*=-=**=-:::::+###*+++**#%%.............
+%%%%%%%%*--*#*=-:....-====++*#%@%.............
+```
 
-Recepcionista hospitalar, estudando Análise e Desenvolvimento de Sistemas (UniCesumar) e construindo projetos de portfólio em Python e Flask por conta própria.
+## 🛠️ Stack
 
-Meu principal projeto é o **Help Desk System**, um sistema completo de gerenciamento de chamados técnicos: controle de acesso por perfil, API REST própria, upload de anexos, exportação de relatórios, registro de auditoria e uma suíte com mais de 120 testes automatizados, com integração contínua a cada push. Está no ar, com banco PostgreSQL e deploy em produção.
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![Pytest](https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=0A9EDC) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)
 
-- Repositório: [github.com/DZ092/helpdesk-system](https://github.com/DZ092/helpdesk-system)
-- Demonstração: [dz092.github.io/helpdesk-system](https://dz092.github.io/helpdesk-system)
-- Aplicação: [helpdesk-system-cci1.onrender.com](https://helpdesk-system-cci1.onrender.com)
+## 🚀 Projeto em destaque
 
-**Tecnologias:** Python, Flask, Flask-SQLAlchemy, Flask-WTF, PostgreSQL, SQLite, Pytest, GitHub Actions.
+[![Help Desk System](https://github-readme-stats.vercel.app/api/pin/?username=DZ092&repo=helpdesk-system&theme=dark&hide_border=true&bg_color=0D1117)](https://github.com/DZ092/helpdesk-system)
 
-Contato: [LinkedIn](https://www.linkedin.com/in/eduardocoelho-dev)
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DZ092&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DZ092&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DZ092&theme=dark&hide_border=true&background=0D1117)
