@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Eduardo 👋
+# | Eduardo Jr. Coelho | 👋
 
 **Estudante de Análise e Desenvolvimento de Sistemas (UniCesumar)**
 Construindo projetos de portfólio em Python e Flask
