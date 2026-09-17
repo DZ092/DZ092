@@ -40,4 +40,4 @@ Suíte com **152 testes automatizados**, rodando via GitHub Actions a cada push,
 
 <div align="center">
 
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/eduardocoelho-dev) · [GitHub](https://github.com/DZ092) · `eduardocoelhopro@gmail.com`
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/eduardojr-dev) · [GitHub](https://github.com/DZ092) · `eduardocoelhopro@gmail.com`
