@@ -26,7 +26,7 @@ Construindo projetos de portfólio em Python e Flask
 
 **Help Desk System** — sistema de gerenciamento de chamados técnicos construído do zero em Flask, com controle de acesso por perfil (Usuário, Técnico, Administrador), ciclo completo de chamado, notificação por e-mail, painel administrativo, auditoria e segurança (CSRF, hash de senha, recuperação por link assinado).
 
-Suíte com **159 testes automatizados**, rodando via GitHub Actions a cada push, com deploy contínuo no Render e banco PostgreSQL.
+Suíte com **170 testes automatizados**, rodando via GitHub Actions a cada push, com deploy contínuo no Render e banco PostgreSQL.
 
 <div align="center">
 
