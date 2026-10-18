@@ -2,7 +2,7 @@
 
 # | Eduardo Jr. Coelho | 👋
 
-**Estudante de ADS (UniCesumar) | Projetos em Python e Flask | Sites e landing pages para pequenos negócios em HTML, CSS e JavaScript
+**Estudante de ADS (UniCesumar) | Projetos em Python e Flask | Sites e landing pages para pequenos negócios em HTML, CSS e JavaScript**
 
 </div>
 
