@@ -1,6 +1,6 @@
 <div align="center">
 
-# | Eduardo Jr. Coelho | 👋
+# | Eduardo Jr. Coelho |
 
 **Estudante de ADS (UniCesumar) | Projetos em Python e Flask | Sites e landing pages para pequenos negócios em HTML, CSS e JavaScript**
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Projeto em destaque
+### Projeto em destaque
 
 **Help Desk System** — sistema de gerenciamento de chamados técnicos construído do zero em Flask, com controle de acesso por perfil (Usuário, Técnico, Administrador), ciclo completo de chamado, notificação por e-mail, painel administrativo, auditoria e segurança (CSRF, hash de senha, recuperação por link assinado).
 
@@ -36,7 +36,7 @@ Suíte com **309 testes automatizados**, rodando via GitHub Actions a cada push,
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=DZ092&theme=dark&hide_border=true&background=0D1117)
 
